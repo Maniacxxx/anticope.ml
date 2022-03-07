@@ -1,0 +1,207 @@
+{
+    "verified": [
+        {
+            "icon": "https://github.com/MeteorDevelopment/meteor-mbd-addon/blob/main/src/main/resources/assets/mbd/icon.png?raw=true",
+            "name": "Auto Mount Bypass Dupe",
+            "description": "Adds the AutoMountBypass Dupe",
+            "repository": "https://github.com/MeteorDevelopment/meteor-mbd-addon",
+            "status": [
+                "unavailable"
+            ],
+            "authors": [
+                "Meteor Development"
+            ],
+            "stars": 0,
+            "categories": [
+                "Meteor Dev Addon",
+                "Duping"
+            ]
+        },
+        {
+            "icon": "https://github.com/MeteorDevelopment/meteor-book-dupe-addon/blob/main/src/main/resources/assets/bookdupe/icon.png?raw=true",
+            "name": "Book Dupe Addon",
+            "description": "Adds the book dupe",
+            "repository": "https://github.com/MeteorDevelopment/meteor-book-dupe-addon",
+            "status": [
+                "unavailable",
+                "archived"
+            ],
+            "authors": [
+                "Meteor Development"
+            ],
+            "stars": 0,
+            "categories": [
+                "Meteor Dev Addon",
+                "Duping"
+            ]
+        },
+        {
+            "icon": "https://github.com/AntiCope/meteor-rejects/blob/master/src/main/resources/assets/rejects/icon.png?raw=true",
+            "name": "Meteor Rejects",
+            "description": "Various modules and commands",
+            "repo": "https://github.com/AntiCope/meteor-rejects",
+            "authors": ["Cloudburst", "StormyBytes"],
+            "status": ["available-release", "available-latest"],
+            "categories":[
+                "General Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/AntiCope/orion/raw/master/src/main/resources/assets/orion/icon.png?raw=true",
+            "name": "Orion",
+            "description": "A combat based pvp addon",
+            "repo": "https://github.com/AntiCope/orion",
+            "authors": ["Cloudburst", "StormyBytes", "(Formerly) GhostTypes"],
+            "status": ["available-release", "available-latest"],
+            "categories":[
+                "General Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/AntiCope/tanuki/raw/master/src/main/resources/assets/tanuki/icon.png?raw=true",
+            "name": "Tanuki",
+            "description": "Port of tanuki client",
+            "repo": "https://github.com/AntiCope/tanuki",
+            "authors": ["Cloudburst", "(Formerly) Walaryne"],
+            "status": ["available-release", "available-latest"],
+            "categories": [
+                "General Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/Declipsonator/Meteor-Tweaks/blob/main/src/main/resources/assets/meteortweaks/icon.png?raw=true",
+            "name": "Meteor Tweaks",
+            "description": "Tweaks to modules and settings.",
+            "repo": "https://github.com/Declipsonator/Meteor-Tweaks",
+            "authors": "Declipsonator",
+            "status": ["available-release", "available-latest"],
+            "categories": [
+                "General Utilities"
+            ]
+        },
+        {
+            "icon": "/resources/unknown_icon.png",
+            "name": "Meteor Additions",
+            "description": "Addons partially based off Wurst",
+            "repo": "https://github.com/JFronny/MeteorAdditions",
+            "authors": "JFronny",
+            "status": ["available-release"],
+            "categories": [
+                "General Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/cally72jhb/vector-addon/blob/main/src/main/resources/assets/vector-addon/vector/icon32.png?raw=true",
+            "name": "Vector Addon",
+            "description": "An open-source addon",
+            "repo": "https://github.com/cally72jhb/vector-addon",
+            "authors": "cally72jhb",
+            "status": ["available-release"],
+            "categories": [
+                "General Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/kkllffaa/meteor-utils/blob/master/src/main/resources/assets/meteor-utils/icon.png?raw=true",
+            "name": "Meteor Utils",
+            "description": "Adds some modules & commands",
+            "repo": "https://github.com/kkllffaa/meteor-utils",
+            "authors": "kkllffaa",
+            "status": ["available-release"],
+            "categories": [
+                "General Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/AntiCope/meteor-python-addon/blob/master/src/main/resources/assets/pythonaddon/icon.png?raw=true",
+            "name": "Python Addon",
+            "description": "An addon for creating modules and commands in python",
+            "repo": "https://github.com/AntiCope/meteor-python-addon",
+            "authors": "Cloudburst",
+            "status": ["available-release available-latest "],
+            "categories":[
+                "Specialized Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/kkllffaa/meteor-litematica-printer/blob/main/src/main/resources/assets/meteor_litematica_printer/icon.png?raw=true",
+            "name": "Litematica Printer",
+            "description": "Building litematica schematics",
+            "repo": "https://github.com/kkllffaa/meteor-litematica-printer",
+            "authors": "kkllffaa",
+            "status": ["available-release"],
+            "categories":[
+                "Specialized Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/SIMULATAN/meteor-notifications-addon/blob/main/src/main/resources/assets/notifications/icon.png?raw=true",
+            "name": "Notifications Addon",
+            "description": "Displaying notifications in the HUD",
+            "repo": "https://github.com/SIMULATAN/meteor-notifications-addon",
+            "authors": "SIMULATAN",
+            "status": ["available-release"],
+            "categories":[
+                "Specialized Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/maxsupermanhd/meteor-villager-roller/blob/main/src/main/resources/assets/template/icon.png?raw=true",
+            "name": "Villager Roller",
+            "description": "Module that continiously breaks and places work block of villager until it has desired trade",
+            "repo": "https://github.com/maxsupermanhd/meteor-villager-roller",
+            "authors": "maxsupermanhd",
+            "status": ["available-release", "available-latest"],
+            "categories":[
+                "Specialized Utilities"
+            ]
+        },
+        {
+            "icon": "https://github.com/timoreo22/auto-anvil-dupe/blob/main/src/main/resources/assets/autodupe/icon.png?raw=true",
+            "name": "Auto Anvil Dupe",
+            "description": "An addon for the anvil dupe",
+            "repo": "https://github.com/timoreo22/auto-anvil-dupe",
+            "authors": "timoreo22",
+            "status": ["unavailable"],
+            "categories": [
+                "Duping"
+            ]
+        },
+        {
+            "icon": "https://github.com/Wide-Cat/item-frame-dupe-addon/blob/main/src/main/resources/assets/template/icon.png?raw=true",
+            "name": "Item Frame Dupe",
+            "description": "An addon for the item frame dupe in OpenAnarchy.org",
+            "repo": "https://github.com/Wide-Cat/item-frame-dupe-addon",
+            "authors": "Wide-Cat",
+            "status": ["unavailable"],
+            "categories": [
+                "Duping"
+            ]
+        },
+        {
+            "icon": "https://github.com/AntiCope/meteor-e621-integration/blob/master/src/main/resources/assets/e621/icon.png?raw=true",
+            "name": "E621",
+            "description": "Admire great artworks from the comfort of Meteor Client <img src=\"https://user-images.githubusercontent.com/18114966/153202568-ff9ff7a9-702a-4ad5-9dbc-91d47895cbbc.png\" width=\"24px\" alt=\":troll:\">",
+            "repo": "https://github.com/AntiCope/meteor-e621-integration",
+            "authors": "AntiCope",
+            "status": ["available-release", "available-latest"],
+            "categories": [
+                "Misc"
+            ]
+        },
+        {
+            "icon": "https://github.com/Declipsonator/Troll-Addon/blob/main/src/main/resources/assets/BananaPlus.png?raw=true",
+            "name": "Troll-Addon",
+            "description": "The wonderful troll addon to Meteor Client.",
+            "repo": "https://github.com/Declipsonator/Troll-Addon",
+            "authors": "Declipsonator",
+            "status": ["available-release"],
+            "categories": [
+                "Misc"
+            ]
+        }
+    ],
+    "unverified": [
+        {}
+    ]
+}
